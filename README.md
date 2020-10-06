@@ -1,7 +1,5 @@
 ## Welcome to Avarti Test Application
 
-Here you can be updated about all the changes in the application.
-
 For support: gparielt@gmail.com
 
 ### Privacy Policy
