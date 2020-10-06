@@ -9,4 +9,4 @@ Here you can be updated about all the changes in the application.
 ### Support or Contact
 
 Having trouble with the app?
-Contact this mail: [Link](mailto: gparielt@gmail.com)
+Contact this mail: gparielt@gmail.com
