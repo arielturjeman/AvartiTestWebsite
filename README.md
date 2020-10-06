@@ -1,6 +1,6 @@
 ## Welcome to Avarti Test Application
 
-For support: mailto:gparielt@gmail.com
+For support: url(gparielt@gmail.com)
 
 ### Privacy Policy
 
