@@ -2,9 +2,9 @@
 
 Here you can be updated about all the changes in the application.
 
-### Privacy Policy
+For support: gparielt@gmail.com
 
-**Privacy Policy**
+### Privacy Policy
 
 Ariel Turjeman built the Avarti Test (עברתי טסט) app as an Ad Supported app. This SERVICE is provided by Ariel Turjeman at no cost and is intended for use as is.
 
